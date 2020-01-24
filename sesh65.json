@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "Sesh",
+    "version": "5.1-65",
+    "link": "https://raw.githubusercontent.com/MechaNarutoSucks/Sesh-FKM/master/R51.65.zip",
+    "changelog_url": "https://raw.githubusercontent.com/MechaNarutoSucks/Sesh-FKM/master/changelog.txt",
+    "date": "2020-01-22",
+    "sha1": "73262170e3518e71ffe6f7c673bd7154d407b625"
+  },
+  "support": {
+    "link": "t.me/seshstationkernel"
+  }
+}
