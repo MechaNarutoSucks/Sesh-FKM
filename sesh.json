@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "Sesh",
+    "version": "5.1-65",
+    "link": "https://drive.google.com/file/d/15yrLfwBeYiStKY-JmNxskgq7WSC-HIdy/view",
+    "changelog_url": "https://drive.google.com/open?id\u003d16yq57DU25eXSr2tAOQ_YkK0ZrkjvhEPQ",
+    "date": "2020-01-22",
+    "sha1": "73262170e3518e71ffe6f7c673bd7154d407b625"
+  },
+  "support": {
+    "link": "t.me/seshstationkernel"
+  }
+}
